@@ -1,8 +1,10 @@
 Data repository
 ===============
 
-Copyright 2010-2013 Sebastiaan Mathot
+Copyright 2010-2013 Sebastiaan Mathôt
+
 Contact: <s.mathot@cogsci.nl>
+
 Home: <http://www.cogsci.nl/smathot>
 
 About
