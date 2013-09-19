@@ -9,7 +9,7 @@ About
 
 This archive contains the data described in
 
-Mathôt, S., van der Linden, L., Grainger, J., & Vitu, F.. (in prep). *The Pupillary Light Reflex Reveals the Focus of Covert Visual Attention.*
+Mathôt, S., van der Linden, L., Grainger, J., & Vitu, F.. (2013). The pupillary light reflex reveals the focus of covert visual attention. *PLoS ONE*
 
 License
 =======
