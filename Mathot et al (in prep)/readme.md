@@ -15,7 +15,7 @@ Due to size constraints, the stimuli have been uploaded to FigShare and can be f
 
 In each image, a small 'z' or 'h' is embedded (14x14 pixels). The locations of these targets is listed in `dataset[X]\targetLocations.txt`.
 
-For Dataset 2, only the fractals have been uploaded, because the images used do not have a license that permits redistribution. The full 'campus set' can be downloaded from <>. To obtain our selection including embedded targets, please contact <s.mathot@cogsci.nl>.
+For Dataset 2, only the fractals have been uploaded, because the images used do not have a license that permits redistribution. The full 'campus set' can be downloaded from <http://www.cps.utexas.edu/natural_scenes/db.shtml>. To obtain our selection including embedded targets, please contact <s.mathot@cogsci.nl>.
 
 The saliency maps are available in the folders `dataset[X]\saliency` as gray-scale `.png` images.
 
